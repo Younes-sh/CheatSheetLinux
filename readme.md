@@ -18,7 +18,8 @@
 - How to start a Python server
 - Crunch
 - Hydra
-SQLmap
-How to put a Network adapter in monitor-mode
-How to fix common Hack The Box VPN connection issue
-Wireshark Filters
+- SQLmap
+- How to put a Network adapter in monitor-mode
+- How to fix common Hack The Box VPN connection issue
+- Wireshark Filters
+### Good luck
